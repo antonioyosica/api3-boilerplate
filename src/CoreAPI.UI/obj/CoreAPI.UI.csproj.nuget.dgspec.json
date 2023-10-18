@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\src\\api3-boilerplate\\CoreAPI.UI\\CoreAPI.UI.csproj": {}
+    "C:\\src\\api3-boilerplate\\src\\CoreAPI.UI\\CoreAPI.UI.csproj": {}
   },
   "projects": {
-    "C:\\src\\api3-boilerplate\\CoreAPI.UI\\CoreAPI.UI.csproj": {
+    "C:\\src\\api3-boilerplate\\src\\CoreAPI.UI\\CoreAPI.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\src\\api3-boilerplate\\CoreAPI.UI\\CoreAPI.UI.csproj",
+        "projectUniqueName": "C:\\src\\api3-boilerplate\\src\\CoreAPI.UI\\CoreAPI.UI.csproj",
         "projectName": "CoreAPI.UI",
-        "projectPath": "C:\\src\\api3-boilerplate\\CoreAPI.UI\\CoreAPI.UI.csproj",
+        "projectPath": "C:\\src\\api3-boilerplate\\src\\CoreAPI.UI\\CoreAPI.UI.csproj",
         "packagesPath": "C:\\Users\\a.yosica\\.nuget\\packages\\",
-        "outputPath": "C:\\src\\api3-boilerplate\\CoreAPI.UI\\obj\\",
+        "outputPath": "C:\\src\\api3-boilerplate\\src\\CoreAPI.UI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\a.yosica\\AppData\\Roaming\\NuGet\\NuGet.Config",

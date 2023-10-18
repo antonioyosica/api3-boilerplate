@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V08iW4mQn/8zY8g0m0ChJn5c1Yn+gZQ6WoKqm1aTtNBU/KG2uoYSiSNiYEHQsLUiRdntOyfYWos61c/r9QGE5g==",
+  "dgSpecHash": "A+NtFI+HRrFNPzPjvkClPFU3y06SWSlGJl7ZJ+g+ZhzHfdYI6AgNiviBG0xr6HtECihkMIafE36ESbPkYZFWLg==",
   "success": true,
-  "projectFilePath": "C:\\src\\api3-boilerplate\\CoreAPI.UI\\CoreAPI.UI.csproj",
+  "projectFilePath": "C:\\src\\api3-boilerplate\\src\\CoreAPI.UI\\CoreAPI.UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\a.yosica\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
     "C:\\Users\\a.yosica\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

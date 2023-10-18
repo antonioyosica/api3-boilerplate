@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreAPI.Domain", "src\CoreA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreAPI.Models", "src\CoreAPI.Models\CoreAPI.Models.csproj", "{5BF90E03-5C95-40D1-A41C-93FE4826A7B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreAPI.UI", "CoreAPI.UI\CoreAPI.UI.csproj", "{758D283B-A36C-4CE8-B7FE-D6836E7089D0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreAPI.UI", "src\CoreAPI.UI\CoreAPI.UI.csproj", "{758D283B-A36C-4CE8-B7FE-D6836E7089D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
